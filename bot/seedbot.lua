@@ -268,7 +268,6 @@ function create_config( )
     "exchange",
     "expand",
     "face",
-    "filter
     "get",
     "giphy",
     "gnuplot",
